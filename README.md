@@ -19,7 +19,7 @@
 
 ## Bash
 
-``` g++ main.cpp LogAnalyzer.cpp -o LogAnalyzer ```
+``` g++ main.cpp -o LogAnalyzer ```
 #### Ця команда створить виконуваний файл під назвою LogAnalyzer.
 
 ### Запуск:
